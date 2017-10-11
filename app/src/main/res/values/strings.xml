@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Safar Kompasi</string>
+    <string name="app_name">Safar Compus</string>
+    <string name="foydalanish_shartlari">Foydalanish shartlari bilan tanishib chiqdim</string>
+    <string name="utkazib_yuborish">O\'tkazib yuborish</string>
+    <string name="royhat_utish">Ro\'yhatdan o\'tish</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">Ism</string>
+    <string name="hint_surname">Familiya</string>
+    <string name="hint_middlename">Sharifi</string>
+    <string name="hint_date">Tug\'ilgan sana</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_email">Elektron manzil</string>
+    <string name="hint_password">Parol</string>
+    <string name="logo">Safari Compus</string>
+    <string name="login">Kirish</string>
+    <string name="register">Ro\'yhatdan o\'tish</string>
+    <string name="login_name">Login</string>
+    <string name="remember_me">Eslab qolish</string>
 </resources>
