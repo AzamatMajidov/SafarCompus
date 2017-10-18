@@ -29,7 +29,6 @@
     android:id="@+id/name"
     android:layout_gravity="center"
     android:layout_marginBottom="30sp"
-    android:fontFamily=""
     />
 
     <Space
@@ -49,7 +48,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:text="Новости"
+        android:text="Полезная информация"
         android:textAllCaps="false"
         android:textSize="18sp"
         android:textColor="#FFFFFF"
@@ -59,17 +58,17 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:text="Новости"
+        android:text="Настройки"
         android:textAllCaps="false"
         android:textSize="18sp"
         android:textColor="#FFFFFF"
-        android:background="#FF2600"
+        android:background="#ff970f"
         android:layout_marginBottom="10sp"
         />
     <Button
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:text="Новости"
+        android:text="Связаться"
         android:textAllCaps="false"
         android:textSize="18sp"
         android:textColor="#FFFFFF"
