@@ -16,8 +16,5 @@
     <string name="register">Ro\'yhatdan o\'tish</string>
     <string name="login_name">Login</string>
     <string name="remember_me">Eslab qolish</string>
-    <string name="news">Yangiliklar</string>
-    <string name="settings">Sozlamalar</string>
-    <string name="need_help">Yordam</string>
-    <string name="connection">Aloqa</string>
+    <string name="o_zbekiston_respublikasi_tashqi_ishlar_vazirligi">O\'zbekiston Respublikasi Tashqi ishlar Vazirligi</string>
 </resources>
