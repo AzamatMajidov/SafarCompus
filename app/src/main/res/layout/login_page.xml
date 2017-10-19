@@ -44,7 +44,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@id/login"
+        android:id="@+id/login"
         android:text="@string/login"
         android:textColor="@android:color/white"
         android:layout_width="match_parent"
