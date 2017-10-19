@@ -3,6 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="colorgreen">#26A69A</color>
+    <color name="colorgreen">#4CAF50</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="colorred">#E53935</color>
+    <color name="colorbackground">#3DB1FB</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="gen_app_color">#3F51B5</color>
+    <color name="selector_buttons_text">#3F51B5</color>
 </resources>
