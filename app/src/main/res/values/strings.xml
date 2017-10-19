@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Safar Compus</string>
+    <string name="app_name">Safar Compas</string>
     <string name="foydalanish_shartlari">Foydalanish shartlari bilan tanishib chiqdim</string>
     <string name="utkazib_yuborish">O\'tkazib yuborish</string>
     <string name="royhat_utish">Ro\'yhatdan o\'tish</string>
@@ -16,5 +16,12 @@
     <string name="register">Ro\'yhatdan o\'tish</string>
     <string name="login_name">Login</string>
     <string name="remember_me">Eslab qolish</string>
+<<<<<<< Updated upstream
     <string name="o_zbekiston_respublikasi_tashqi_ishlar_vazirligi">O\'zbekiston Respublikasi Tashqi ishlar Vazirligi</string>
+=======
+    <string name="news">Новости</string>
+    <string name="settings">Настройка</string>
+    <string name="connection">Связаться</string>
+    <string name="useful_info">Полезная информация</string>
+>>>>>>> Stashed changes
 </resources>

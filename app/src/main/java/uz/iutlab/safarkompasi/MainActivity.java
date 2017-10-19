@@ -40,5 +40,6 @@ public class MainActivity extends AppCompatActivity {
             backButtonCount++;
         }
 
+        setContentView(R.layout.directory_country);
     }
 }
